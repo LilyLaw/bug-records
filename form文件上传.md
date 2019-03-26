@@ -37,4 +37,4 @@
 
 
   [1]: https://github.com/LilyLaw/bug-records/blob/master/img/filewrong.bmp?raw=true
-  [2]: https://github.com/LilyLaw/records/blob/master/img/fileright.bmp?raw=true
+  [2]: https://github.com/LilyLaw/bug-records/blob/master/img/fileright.bmp?raw=true
